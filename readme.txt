@@ -1,0 +1,3 @@
+1. Download the provided dataset, where the label values have been converted to 0 and 1.
+2. Download the code and set the dirPath in the config file to the path of the dataset on your own computer.
+3. Use the train.py file to start training. Each epoch will train on the training set and then test on the validation set, with the test metrics being saved in a txt file in the modename subdirectory under the dataset folder directory.
