@@ -1,4 +1,4 @@
-
+This is the PyTorch code implementation and usage instructions for LiteMRINet.
 
 1. Dependencies and Requirements
 
